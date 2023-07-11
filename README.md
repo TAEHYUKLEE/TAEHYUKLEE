@@ -1,5 +1,5 @@
 ### Hi there I'm taehyuk, Lee 👋
-![taehyuklee's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyuklee&show_icons=true&theme=default)
+<!--![taehyuklee's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyuklee&show_icons=true&theme=default)-->
 
 <!--
 **taehyuklee/taehyuklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
